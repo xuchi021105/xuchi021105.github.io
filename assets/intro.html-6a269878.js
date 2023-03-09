@@ -1,0 +1,1 @@
+import{_ as t,W as o,X as r,Z as e,$ as a}from"./framework-eefab691.js";const n={},s=e("h2",{id:"自我介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#自我介绍","aria-hidden":"true"},"#"),a(" 自我介绍")],-1),c=e("p",null,"水平有限的vimer一枚",-1),_=[s,c];function i(d,l){return o(),r("div",null,_)}const f=t(n,[["render",i],["__file","intro.html.vue"]]);export{f as default};
