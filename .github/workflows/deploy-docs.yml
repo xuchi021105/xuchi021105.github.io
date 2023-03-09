@@ -42,4 +42,3 @@ jobs:
           # This is the branch where the docs are deployed to
           branch: gh-pages
           folder: src/.vuepress/dist
-          ACCESS_TOKEN: ${{ secrets.token}}
