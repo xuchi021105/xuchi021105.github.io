@@ -16,7 +16,7 @@ export default hopeTheme({
 
   logo: "/avatar1.png",
 
-  repo: "https://xuchi021105.github.io",
+  repo: "https://github.com/xuchi021105/xuchi021105.github.io",
 
   docsDir: "src",
 
