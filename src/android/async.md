@@ -428,8 +428,6 @@ public class Test {
 
    下方是开屏广告的核心是实现代码,用了navigation
 
-   演示视频在**resources/videos/thread0.mp4**
-
    ```kotlin
    class AdvertisingFragment : Fragment() {
    

@@ -4,10 +4,10 @@ layout: BlogHome
 icon: home
 title: 博客主页
 
-heroImage: /avatar0.jpg
+heroImage: /avatar0.png
 heroText: 徐迟
 
-bgImage: /aurora0.jpg
+bgImage: /aurora.jpg
 
 heroFullScreen: true
 tagline: talk is cheap, show me the code

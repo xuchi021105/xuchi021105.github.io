@@ -14,7 +14,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/avatar1.jpg",
+  logo: "/avatar1.png",
 
   repo: "https://xuchi021105.github.io",
 
@@ -29,7 +29,7 @@ export default hopeTheme({
     
     medias: {
       GitHub: "https://github.com/xuchi021105",
-      Gmail: "xt.xuchi@gmail.com",
+      Gmail: "mailto:xt.xuchi@gmail.com",
       Zhihu: "https://www.zhihu.com/people/shi-guang-37-44",
       BiliBili: "https://space.bilibili.com/458217512",
     },
