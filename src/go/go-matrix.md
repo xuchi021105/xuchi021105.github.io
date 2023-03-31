@@ -1,28 +1,26 @@
 ---
 title: 用go语言在终端中实现黑客帝国(matrix)中的代码雨效果
 icon: golang
-date: 2023-3-19
+date: 2023-03-19
 category: go
 tag:
-    - go
+    - 练手
 ---
-
 matrix
-
 <!-- more -->
-
 ## 起因
 
 之前看到大佬朋友在学awk,并且用awk在终端中实现了黑客帝国中的代码雨(大佬tql,%%%),感觉效果挺好看的,并且是在终端中实现,正好最近也在考虑用go语言写点啥~~本来考虑用gin来写一个web后端,但是没想好具体写啥,还是等web课大作业题目出来后再说吧~~,所以想到用go语言也来实现一个matrix~~才不是为了水篇博客呢~~
 
 效果演示如下图,感觉效果还不错
+
 ![matrix](./resources/images/matrix.gif)
 
 在网上找了找实现matrix的代码,在github上找到了[gomatrix](https://github.com/GeertJohan/gomatrix),查看了源码之后,照着思路自己写了一下（[我的实现在这里](https://github.com/xuchi021105/go-matrix)),之后会介绍gomatrix实现的方法和我实现的方法
 
 ## gomatrix
 
-###  用到的第三方库
+### 用到的第三方库
 
 - 使用了[tcell](https://github.com/gdamore/tcell)库来控制终端的输出(这个终端库可以监听终端上的键盘事件和鼠标事件等,类似gui库)
 - 用go-flags库来控制命令行参数~~文章中没提到~~

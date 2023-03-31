@@ -19,7 +19,7 @@ export const zhSidebar = sidebar({
     },
     {
       text: "Go",
-      icon: "go",
+      icon: "golang",
       prefix: "go/",
       children:[
         {

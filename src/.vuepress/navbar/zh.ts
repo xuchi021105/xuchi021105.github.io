@@ -13,7 +13,7 @@ export const zhNavbar = navbar([
       },
       {
         text: "go",
-        icon: "go",
+        icon: "golang",
         link: "go/"
       },
     ],
