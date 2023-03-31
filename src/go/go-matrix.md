@@ -1,6 +1,6 @@
 ---
 title: 用go语言在终端中实现黑客帝国(matrix)中的代码雨效果
-icon: golang
+icon: /golang_mole.svg
 date: 2023-03-19
 category: go
 tag:
