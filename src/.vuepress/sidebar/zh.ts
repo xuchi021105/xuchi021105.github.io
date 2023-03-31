@@ -17,6 +17,17 @@ export const zhSidebar = sidebar({
         }
       ]
     },
+    {
+      text: "Go",
+      icon: "go",
+      prefix: "go/",
+      children:[
+        {
+          text: "matrix",
+          link: "go-matrix.md"
+        }
+      ]
+    },
     "intro",
   ],
 });

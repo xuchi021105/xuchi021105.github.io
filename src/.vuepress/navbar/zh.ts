@@ -11,6 +11,11 @@ export const zhNavbar = navbar([
         icon: "android",
         link: "android/"
       },
+      {
+        text: "go",
+        icon: "go",
+        link: "go/"
+      },
     ],
   },
   // {
