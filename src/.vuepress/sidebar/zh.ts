@@ -28,6 +28,14 @@ export const zhSidebar = sidebar({
         }
       ]
     },
+    {
+      text:"Mac",
+      icon:"mac",
+      prefix:"mac/",
+      children:[
+
+      ]
+    },
     "intro",
   ],
 });

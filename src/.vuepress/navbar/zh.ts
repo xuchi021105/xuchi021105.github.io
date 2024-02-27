@@ -16,6 +16,11 @@ export const zhNavbar = navbar([
         icon: "/golang_mole.svg",
         link: "go/"
       },
+      {
+        text:"mac",
+        icon:"mac",
+        link:"mac/"
+      },
     ],
   },
   // {
