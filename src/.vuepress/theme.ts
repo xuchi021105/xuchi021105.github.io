@@ -59,7 +59,7 @@ export default hopeTheme({
 
     comment: {
       provider: "Waline",
-      serverURL: "blog-hv9carkxe-xuchi021105.vercel.app"
+      serverURL: "blog-itcvwvbzi-xuchi021105.vercel.app"
     },
 
     // all features are enabled for demo, only preserve features you need here
