@@ -14,7 +14,7 @@ export const zhSidebar = sidebar({
         {
           text: "android异步处理",
           link: "async.md",
-        }
+        },
       ]
     },
     {
@@ -25,15 +25,22 @@ export const zhSidebar = sidebar({
         {
           text: "matrix",
           link: "go-matrix.md"
-        }
+        },
+        {
+          text: "net-http-get",
+          link: "net-http-get.md"
+        },
       ]
     },
     {
       text:"Mac",
-      icon:"mac",
+      icon:"apple",
       prefix:"mac/",
       children:[
-
+        {
+          text: "mac-config",
+          link: "mac-config.md"
+        },
       ]
     },
     "intro",

@@ -18,7 +18,7 @@ export const zhNavbar = navbar([
       },
       {
         text:"mac",
-        icon:"mac",
+        icon:"apple",
         link:"mac/"
       },
     ],

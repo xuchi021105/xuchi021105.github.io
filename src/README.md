@@ -23,10 +23,10 @@ projects:
     # link: https://blog.haoker.work
     link: https://blog.csdn.net/JILAU_WHO_AM_I_Q234?type=blog
 
-  - icon: link
-    name: 朋友Y的博客
-    desc: hello!
-    link: http://yang--yang.com
+  # - icon: link
+  #   name: 朋友Y的博客
+  #   desc: hello!
+  #   link: http://yang--yang.com
 
   # - icon: book
   #   name: 书籍名称

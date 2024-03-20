@@ -1,6 +1,6 @@
 ---
 title: mac
-icon: mac
+icon: apple
 date: 2024-02-27
 category: mac
 ---
