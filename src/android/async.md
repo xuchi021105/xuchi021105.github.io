@@ -5,6 +5,8 @@ date: 2022-11-25
 category: Android
 tag: 
     - 异步
+    - async
+    - android
 ---
 
 介绍android异步处理的相关概念和技术

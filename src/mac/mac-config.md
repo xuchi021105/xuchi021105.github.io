@@ -5,6 +5,7 @@ date: 2024-03-21
 category: mac
 tag:
     - config
+    - mac
 ---
 
 百度实习mac电脑配置
